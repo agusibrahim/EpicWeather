@@ -13,10 +13,10 @@ Ada 11 langkah, saya jelaskan satu persatu dari mulai membuat pencarian wilayah,
 11. Material Design - Epic
 12. Cuaca dalam Bahasa Indonesia
 
-![image](/storage/emulated/0/Pictures/Screenshots/Screenshot_20161205-104826.png)
+![image](https://github.com/agusibrahim/EpicWeather/blob/master/Screenshot_20161205-104826.png?raw=true)
 > Halaman Awal
 
-![image](/storage/emulated/0/Pictures/Screenshots/Screenshot_20161205-104902.png)
+![image](https://github.com/agusibrahim/EpicWeather/blob/master/Screenshot_20161205-104902.png?raw=true)
 > Pencarian Wilayah
 
 ## Cara membuka di AIDE
