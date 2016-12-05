@@ -204,7 +204,7 @@ public class MainActivity extends AppCompatActivity {
 			case R.id.menu_about:
 				AlertDialog.Builder d=new AlertDialog.Builder(MainActivity.this);
 				d.setTitle(R.string.app_name);
-				d.setMessage("MaterialWeather adalah Aplikasi perkiraan cuaca yang keren dan sederhana, data diambil dari Yahoo! Weather.\nTerimakasih telah menggunakan Aplikasi ini.\n\nKursus Online Aplikasi Android bisa menghubungi\nAgus Ibrahim");
+				d.setMessage("EpicWeather adalah Aplikasi perkiraan cuaca yang keren dan sederhana, data diambil dari Yahoo! Weather.\nTerimakasih telah menggunakan Aplikasi ini.\n\nKursus Online Aplikasi Android bisa menghubungi\nAgus Ibrahim");
 				d.setNeutralButton("Contact Me", new DialogInterface.OnClickListener(){
 						@Override
 						public void onClick(DialogInterface p1, int p2) {
