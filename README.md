@@ -24,7 +24,7 @@ Ada 11 langkah, saya jelaskan satu persatu dari mulai membuat pencarian wilayah,
 Saya membuat project ini menggunakan AIDE di Ponsel, tapi tidak menutup kemungkinan bahwa project ini bisa dibuka di Android Studio.
 Untuk AIDE, tinggal clone project ini (direkomdasikan) atau download sebagai ZIP terus di Unpack kemudian dibuka di AIDE.
 ## Android Support Library
-Hanya untuk pelajaran terakhir (ke 11), wajib mempunyai Android Suppprt Library di AIDE. Minimal bersi 23.4.0
+Hanya untuk pelajaran terakhir (ke 11), wajib mempunyai Android Suppprt Library di AIDE. Minimal versi 23.4.0
 ## Harapan
 Dengan dijelaskan dengan steps by steps diharapkan semua fungsinya bisa dipahami, sehingga tidak asing lagi dalam memahami steps terakhir
 ## Thanks
