@@ -30,7 +30,7 @@ Dengan dijelaskan dengan steps by steps diharapkan semua fungsinya bisa dipahami
 ## Thanks
 - https://developer.yahoo.com/weather/
 - http://loopj.com/android-async-http/
-- http://loopj.com/android-smart-imajphotoframe
+- http://loopj.com/android-smart-image-view/
 - https://github.com/ikromin/jphotoframe
 
 ## Info Lebih Lanjut
