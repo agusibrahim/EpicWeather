@@ -1,7 +1,8 @@
 # Belajar membuat Aplikasi Perkiraan cuaca untuk Android
 Ada 11 langkah, saya jelaskan satu persatu dari mulai membuat pencarian wilayah, pencarian Autocomplete, mendapatkan data cuaca, sampai membalutnya dalam Material Design yang keren.
+
 1. Pencarian Wilayah
-2.  Pencarian Wilayah (Autocomplete)
+2. Pencarian Wilayah (Autocomplete)
 3. Pencarian Wilayah GSON (Autocomplete)
 4. Pencarian Wilayah GSON (real Autocomplete)
 5. Pencarian Wilayah ambil WOEID
@@ -9,7 +10,7 @@ Ada 11 langkah, saya jelaskan satu persatu dari mulai membuat pencarian wilayah,
 7. lihat Cuaca berdasarkan WOEID (adv)
 8. lihat Cuaca berdasarkan WOEID (epic)
 9. lihat Cuaca dari Pencarian Wilayah
-10.  lihat Cuaca dari Pencarian Wilayah (new icon)
+10. lihat Cuaca dari Pencarian Wilayah (new icon)
 11. Material Design - Epic
 12. Cuaca dalam Bahasa Indonesia
 
