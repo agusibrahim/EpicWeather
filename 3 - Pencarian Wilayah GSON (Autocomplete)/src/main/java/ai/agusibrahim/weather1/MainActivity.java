@@ -57,7 +57,7 @@ public class MainActivity extends Activity
 		client.get("https://query.yahooapis.com/v1/public/yql?q=select%20woeid%2Ccountry.content%2Cname%2Cadmin1.content%2Cadmin2.content%20from%20geo.places(100)%20where%20text%3D%22"+kw+"*%22%20and%20lang%3D%22id%22&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys", null, new TextHttpResponseHandler(){
 				@Override
 				public void onSuccess(int statusCode, Header[] headers, String res) {
-					if(res.toString().contains(":0,")){
+					if(res.toString().contains(":0,")||res.toString().contains(":1,")){
 						out.setText("Tidak ditemukan");
 						return;
 					}
