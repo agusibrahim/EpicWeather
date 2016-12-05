@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:id="@+id/condition"
+	android:padding="10dp">
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:layout_width="60dp"
+		android:layout_centerVertical="true"
+		android:id="@+id/cuaca_icon"
+		android:layout_marginRight="10dp"
+		android:text="X"
+		android:textSize="50sp"
+		android:textColor="#1EA8DB"
+		android:gravity="center"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:text="Thunderatorm"
+		android:layout_toRightOf="@id/cuaca_icon"
+		android:id="@+id/cuaca_txt"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:text="43 - 67 °C"
+		android:layout_below="@id/cuaca_txt"
+		android:layout_toRightOf="@id/cuaca_icon"
+		android:id="@+id/cuaca_suhu"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceSmall"
+		android:text="Mon, 4 Des 2016"
+		android:layout_alignParentRight="true"
+		android:layout_below="@id/cuaca_suhu"
+		android:id="@+id/cuaca_tgl"/>
+
+</RelativeLayout>
+

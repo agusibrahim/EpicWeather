@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+	<item
+		android:id="@+id/action_search"
+		android:title="@android:string/search_go"
+		android:icon="@drawable/ic_magnify"
+		app:showAsAction="always|collapseActionView"
+		app:actionViewClass="android.support.v7.widget.SearchView"
+	/>
+	<item
+		android:id="@+id/action_share"
+		android:title="Bagikan"
+		android:icon="@drawable/ic_share_variant"
+		app:showAsAction="ifRoom|collapseActionView"
+	/>
+    <item
+        android:id="@+id/menu_about"
+        android:title="About"/>
+	<item
+        android:id="@+id/menu_exit"
+        android:title="Exit"/>
+</menu>
