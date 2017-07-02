@@ -24,6 +24,8 @@ import android.content.*;
 import android.content.SharedPreferences.*;
 import android.support.v7.app.AlertDialog;
 
+
+// edited by agusmibrahim
 public class MainActivity extends AppCompatActivity {
 	Toolbar toolbar;
 	private AsyncHttpClient client;
